@@ -2,7 +2,7 @@
 APEx grow -> extracting cellular growth data at high temporal resolution within controlled conditions.
 
 
-Material needs:
+# Material needs:
 
 Assortment of wires -> male to male, male to female, female to female.
 
