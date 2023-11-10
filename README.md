@@ -1,2 +1,2 @@
 # APEx-grow
-APEx growth and evolutionary analysis platforms
+APEx grow -> extracting cellular growth data at high temporal resolution within controlled conditions.
