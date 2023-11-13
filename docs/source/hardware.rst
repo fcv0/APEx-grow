@@ -1,3 +1,7 @@
+Hardware
+========
+
+Guide for the hardware component of the platform; accompanied via build videos.
 
 .. Material Requirements:
 
@@ -38,3 +42,28 @@ Laptop/desktop computer with the ability to run the provided GUIs.
 
  ** 3D printer with filament or ability to machine the desirable parts. **
 
+
+.. Build guide:
+
+Build guide
+-----------
+
+1) 
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+7)
+
+8)
+
+9)
+
+10)
