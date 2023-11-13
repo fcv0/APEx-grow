@@ -1,7 +1,7 @@
 # APEx-grow
 APEx grow -> extracting cellular growth data at high temporal resolution within controlled conditions.
 
-![Growth curve](https://gyazo.com/776a6c3fae54073df59703626dab5345)
+![Growth curve](docs/images/Growth-Curve.png)
 
 
 
