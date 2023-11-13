@@ -1,8 +1,10 @@
 # APEx-grow
 APEx grow -> extracting cellular growth data at high temporal resolution within controlled conditions.
 
+## ** Place an image here **
 
-# Material needs:
+
+# Material list:
 
 Assortment of wires -> male to male, male to female, female to female.
 
@@ -33,3 +35,13 @@ H-Bridge x1: https://www.rapidonline.com/4tronix-l298n-dual-h-bridge-motor-drive
 Heatmat x1: https://uk.rs-online.com/web/p/heater-pads/0245528?gb=s
 
 Relay x1: https://uk.rs-online.com/web/p/power-motor-robotics-development-tools/8430834
+
+Laptop/desktop computer with the ability to run the provided GUIs.
+
+ ** 3D printer with filament or ability to machine the desirable parts. **
+
+# Build instructions:
+
+1) 3D print (20-25% infill - PLA) or machine the exterior housing of the platform and utilise the photodiode KiCAD file to acquire and fabricated the required part(s).
+
+2) 
