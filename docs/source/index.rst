@@ -18,3 +18,4 @@ Contents
 .. toctree::
    design_overview
    usage
+   code_documentation
