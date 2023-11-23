@@ -2,7 +2,7 @@ Design Overview
 =====
 
 .. image:: images/combined_cc_sensor_diagram.png
-  :height: 500 
+  :height: 300 
   :alt: Sensor Diagram
   :align: center
 
@@ -20,7 +20,7 @@ In total there is space for 5 LED photodiode pairs along with the IR temperature
 This can be used to give a second estimate of the optical density.
 
 .. image:: images/simplified_sensor_diagram.png
-  :height: 500 
+  :height: 400 
   :alt: Sensor Diagram
   :align: center
 
@@ -29,7 +29,7 @@ This can be used to give a second estimate of the optical density.
 Culture Chamber Design
 ---------------
 .. image:: images/culture_chamber_diagram.png
-  :height: 500 
+  :height: 400 
   :alt: Sensor Diagram
   :align: center
 
