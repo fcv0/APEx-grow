@@ -6,7 +6,7 @@ APEx grow XL = Standard version (recommended for no modifying)
 
 
 # Run at 37^o C - E.Coli ~ 20 minutes doubling time
-![Growth curve](docs/images/Growth-Curve.png)
+![Growth curve](docs/source/images/Growth-Curve.png)
 
 # APEx-grow documentation
 
