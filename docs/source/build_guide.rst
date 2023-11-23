@@ -1,4 +1,4 @@
-Hardware
+Build Guide
 ========
 
 Guide for the hardware component of the platform; accompanied via build videos.

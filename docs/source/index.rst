@@ -17,5 +17,6 @@ Contents
 
 .. toctree::
    design_overview
+   build_guide
    usage
    code_documentation
