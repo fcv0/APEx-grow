@@ -1,6 +1,11 @@
 Design Overview
 =====
 
+.. image:: images/combined_cc_sensor_diagram.png
+  :height: 500 
+  :alt: Sensor Diagram
+  :align: center
+
 .. _sensor_design:
 
 Sensor Design
@@ -23,7 +28,10 @@ This can be used to give a second estimate of the optical density.
 
 Culture Chamber Design
 ---------------
-lorem
+.. image:: images/culture_chamber_diagram.png
+  :height: 500 
+  :alt: Sensor Diagram
+  :align: center
 
 .. _user_interface:
 
