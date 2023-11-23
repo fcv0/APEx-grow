@@ -14,7 +14,7 @@ In addition to this there is also an IR temperature sensor to measure the temper
 In total there is space for 5 LED photodiode pairs along with the IR temperature sensor. 4 of these LEDs can also be used to measure the light which scatters and leaves perpendicular to the incident light path.
 This can be used to give a second estimate of the optical density.
 
-.. image:: https://github.com/fcv0/APEx-grow/blob/main/docs/images/simplified_sensor_diagram.png
+.. image:: images/simplified_sensor_diagram.png
   :width: 400
   :alt: Sensor Diagram
 
