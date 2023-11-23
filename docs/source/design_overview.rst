@@ -15,7 +15,7 @@ In total there is space for 5 LED photodiode pairs along with the IR temperature
 This can be used to give a second estimate of the optical density.
 
 .. image:: images/simplified_sensor_diagram.png
-  :hight: 500 
+  :height: 500 
   :alt: Sensor Diagram
   :align: center
 
