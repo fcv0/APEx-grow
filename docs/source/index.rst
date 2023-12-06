@@ -2,7 +2,7 @@ Welcome to APEx Grow's documentation!
 ===================================
 ------------------
 
-**APEx Grow* is a low-cost open-source bioreactor for use to maintain a biological culture in a well-mixed
+**APEx Grow** is a low-cost open-source bioreactor for use to maintain a biological culture in a well-mixed
 environment at a desired temperature. The device comes with an inline sensor which will monitor
 and record the temperature and optical density of the culture at high time resolution.
 
@@ -20,8 +20,7 @@ The main culture chamber itself has an inbuilt heat mat to control the temperatu
 
    This project is under active development.
 
-Contents
---------
+Please find below a general overview of the design aswell as full insturctions for the assembly and usage of the device:
 
 .. toctree::
    design_overview
